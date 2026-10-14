@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Damo</title>
+    <item>
+      <title>Damo build 156</title>
+      <pubDate>Wed, 14 Oct 2026 08:45:33 +0000</pubDate>
+      <sparkle:version>156</sparkle:version>
+      <sparkle:shortVersionString>build 156</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://raw.githubusercontent.com/bsaddik/damo-releases/main/Damo-156.zip" sparkle:edSignature="nCXVufw7GrtwYdJY9poGnyczYe4+ZMX6sqOJU0ba/F+OFWKLnEqXAN38V5fxtimjL5yIi9wNfLA4ZrLMdyHjAg==" length="45543741" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
